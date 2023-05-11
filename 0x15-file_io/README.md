@@ -1,2 +1,2 @@
-0x15. C - File IO
-Project number 234
+0x15. C - File I/O
+ My project assignment 234
